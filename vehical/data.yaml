@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['16-Wheelers', 'Ad-signs', 'Ambulance', 'Bike', 'Bus', 'Car', 'Fire-truck', 'Lamb-post', 'MiniBus', 'Motorcycle', 'Person', 'Pickup', 'Police-car', 'TokTok', 'Traffic-light', 'Traffic-sign', 'Truck']
+
+roboflow:
+  workspace: smart-road-3
+  project: smart-road-24
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/smart-road-3/smart-road-24/dataset/2

@@ -1,0 +1,5 @@
+ultralytics
+sahi
+torch
+opencv-python
+numpy
